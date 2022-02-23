@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    sodik:
+      path: /login-services/**
+      url: http://www.google.es
